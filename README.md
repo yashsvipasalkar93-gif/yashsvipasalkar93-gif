@@ -70,3 +70,10 @@ Turning coursework into hands-on skill — labs, small tools, and real project d
 <br/><br/>
 📫 Open to entry-level Cybersecurity opportunities
 </div>
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile-name">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
