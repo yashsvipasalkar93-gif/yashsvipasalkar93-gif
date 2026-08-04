@@ -1,55 +1,72 @@
 ## Hi there 👋
 
-<h1 align="center">Hi there, I'm Appu 👋</h1>
-<h3 align="center">Cybersecurity Student | Web & API Security | SOC & GRC Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EE6A6&center=true&vCenter=true&width=600&lines=Building+in+Web+%26+API+Security;Learning+SOC+Analysis+and+Threat+Detection;Exploring+GRC+%26+Risk+Frameworks;Always+Curious%2C+Always+Learning" alt="Typing SVG" />
-</p>
+<div align="center">
+
+# Hey, I'm Appu 👋
+
+### Cybersecurity Student · Learning by Building
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2EE6A6&center=true&vCenter=true&width=650&lines=B.Sc.+Cyber+Security+Student;Learning+Security%2C+One+Project+at+a+Time;Documenting+My+Journey+in+Public;Curiosity+%3E+Credentials" alt="Typing SVG" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=yashsvipasalkar93-gif&color=2EE6A6&style=flat-square&label=Profile+Views)
+
+</div>
 
 ---
 
-### About Me
-- 🎓 Final year B.Sc. Cyber Security student
-- 🔐 Currently building a **Web & API Security** field project
-- 🛡️ Exploring **SOC Analysis, GRC, and Digital Forensics**
-- 🧠 Learning security fundamentals through hands-on labs (TryHackMe, HackTheBox)
-- 📫 Open to entry-level opportunities in Cybersecurity / SOC / GRC roles
+### 🧭 Who I Am
+
+I'm a final-year Cyber Security student who believes in **learning by doing, not just studying for exams**. Instead of just collecting theory, I'm building real projects, documenting them publicly, and treating GitHub as my proof-of-work — not just a resume line.
+
+Right now I'm working on a **Web & API Security field project**, and picking up practical skills through platforms like TryHackMe and HackTheBox along the way.
 
 ---
 
-### 🛠️ Tools & Technologies
+### 🔨 What I've Actually Built
+
+> I only list things I can explain in an interview — no buzzword padding.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Hash-Password-Cracker](https://github.com/yashsvipasalkar93-gif/Hash-Password-Cracker)** | Generates SHA-256 password hashes and cracks them via wordlist attack, with a Tkinter GUI | `Python` `Tkinter` `SHA-256` |
+| *Web & API Security Project* | In progress — field project assessing web/API vulnerabilities | `Coming soon` |
+
+---
+
+### 🧰 Tools I Work With
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
 ---
 
-### 📌 Featured Project
+### 📈 My Activity
 
-**[Hash-Password-Cracker](https://github.com/yashsvipasalkar93-gif/Hash-Password-Cracker)**
-A Python tool demonstrating password hashing (SHA-256) and dictionary-based password cracking with a Tkinter GUI — built to understand real-world password security risks.
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yashsvipasalkar93-gif&show_icons=true&theme=radical&hide_border=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsvipasalkar93-gif&theme=radical&hide_border=true" height="165"/>
+</div>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashsvipasalkar93-gif&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashsvipasalkar93-gif&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yashsvipasalkar93-gif&theme=redical&hide_border=true" width="90%"/>
+</div>
 
 ---
 
-### 🌱 Currently Learning
-`OWASP Top 10` · `SIEM & Log Analysis` · `MITRE ATT&CK` · `ISO 27001` · `NIST CSF`
+### 🎯 Right Now, I'm Focused On
+Turning coursework into hands-on skill — labs, small tools, and real project documentation, one commit at a time.
 
 ---
 
-<p align="center"><i>"Security isn't a product, it's a process." — Bruce Schneier</i></p>
+<div align="center">
+<i>"Security isn't a product, it's a process." — Bruce Schneier</i>
+<br/><br/>
+📫 Open to entry-level Cybersecurity opportunities
+</div>
