@@ -17,6 +17,15 @@
 
 ---
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-profile-name">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+
+
 ### 🧭 Who I Am
 
 I'm a final-year Cyber Security student who believes in **learning by doing, not just studying for exams**. Instead of just collecting theory, I'm building real projects, documenting them publicly, and treating GitHub as my proof-of-work — not just a resume line.
@@ -72,8 +81,4 @@ Turning coursework into hands-on skill — labs, small tools, and real project d
 </div>
 
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-profile-name">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+
