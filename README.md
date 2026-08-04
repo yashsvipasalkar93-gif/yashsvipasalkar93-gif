@@ -17,10 +17,9 @@
 
 ---
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/yashaswi-pasalkar-0a90a5376/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-2EE6A6?style=for-the-badge&logo=linkedin&logoColor=0d1117"/>
   </a>
 </p>
 
