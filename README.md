@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hey, I'm Appu 👋
+# Hey, I'm YASHASWI 👋
 
 ### Cybersecurity Student · Learning by Building
 
