@@ -3,7 +3,7 @@
 
 <div align="center">
 
-# Hey, I'm YASHASWI 👋
+#![Hey, I'm YASHASWI 👋](https://capsule-render.vercel.app/api?type=waving&color=0:0B2447,100:145A8C&height=200&section=header&text=Hey,%20I'm%20Yashaswi&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Cyber%20Security%20Student%20%7C%20Building%20WARDEN&descAlignY=58&descSize=18)
 
 ### Cybersecurity Student · Learning by Building
 
@@ -52,6 +52,9 @@ Right now I'm working on a **Web & API Security field project**, and picking up 
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,linux,postman" />
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,linux,kali,postman,cpp,html,css,js" />
+  ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
 </p>
 
 ---
