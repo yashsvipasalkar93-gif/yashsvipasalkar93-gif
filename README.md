@@ -52,8 +52,7 @@ Right now I'm working on a **Web & API Security field project**, and picking up 
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,linux,kali,postman,cpp,html,css,js" />
-  ![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-FF0000?style=for-the-badge&logo=spyder-ide&logoColor=white)
+
 </p>
 
 ---
