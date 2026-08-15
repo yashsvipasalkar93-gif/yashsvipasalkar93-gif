@@ -40,7 +40,7 @@ Right now I'm working on a **Web & API Security field project**, and picking up 
 | Project | What it does | Stack |
 |---|---|---|
 | **[Hash-Password-Cracker](https://github.com/yashsvipasalkar93-gif/Hash-Password-Cracker)** | Generates SHA-256 password hashes and cracks them via wordlist attack, with a Tkinter GUI | `Python` `Tkinter` `SHA-256` |
-| *Web & API Security Project* | In progress — field project assessing web/API vulnerabilities | `Coming soon` |
+| [**WARDEN** — API Security Scanner](https://github.com/yashsvipasalkar93-gif/warden-bola-scanner) | Detects Broken Object Level Authorization (BOLA / OWASP API1:2023) via live multi-identity testing, with a real-time interactive dashboard, evidence reports, and risk scoring | `Python` `Flask` `MySQL` |
 
 ---
 
@@ -51,6 +51,7 @@ Right now I'm working on a **Web & API Security field project**, and picking up 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,git,github,vscode,linux,postman" />
 </p>
 
 ---
