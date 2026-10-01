@@ -41,6 +41,7 @@ Right now I'm working on a **Web & API Security field project**, and picking up 
 |---|---|---|
 | **[Hash-Password-Cracker](https://github.com/yashsvipasalkar93-gif/Hash-Password-Cracker)** | Generates SHA-256 password hashes and cracks them via wordlist attack, with a Tkinter GUI | `Python` `Tkinter` `SHA-256` |
 | [**WARDEN** — API Security Scanner](https://github.com/yashsvipasalkar93-gif/warden-bola-scanner) | Detects Broken Object Level Authorization (BOLA / OWASP API1:2023) via live multi-identity testing, with a real-time interactive dashboard, evidence reports, and risk scoring | `Python` `Flask` `MySQL` |
+| [**VLAN Network Segmentation**](https://github.com/yashsvipasalkar93-gif/vlan-network-segmentation-acl) | Cisco Packet Tracer demo showing before/after network segmentation — VLANs (Trusted/Guests/Attacker Zone) + Router-on-a-Stick inter-VLAN routing + extended ACL blocking attacker traffic to trusted hosts while preserving normal access | `Cisco Packet Tracer` `VLANs` `ACL` `Networking` |
 
 ---
 
